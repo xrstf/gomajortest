@@ -1,3 +1,3 @@
-module go.xrstf.de/gomajortestx/v2/sdk
+module go.xrstf.de/gomajortestx/sdk/v3
 
 go 1.22.0
